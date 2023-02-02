@@ -1,0 +1,55 @@
+﻿@page "/fetchdata"
+@using static RedisBlazor.Extensions.DistributedCacheExtension
+<PageTitle>Weather forecast</PageTitle>
+
+@using RedisBlazor.Data
+@inject WeatherForecastService ForecastService
+@inject IDistributedCache cach
+
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates fetching data from a service.</p>
+<button class="btn btn-primary" @onclick="LoadDataAsync">Load Forecast</button>
+@if (forecasts == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Temp. (C)</th>
+                <th>Temp. (F)</th>
+                <th>Summary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var forecast in forecasts)
+            {
+                <tr>
+                    <td>@forecast.Date.ToShortDateString()</td>
+                    <td>@forecast.TemperatureC</td>
+                    <td>@forecast.TemperatureF</td>
+                    <td>@forecast.Summary</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private WeatherForecast[]? forecasts;
+    private async Task LoadDataAsync()
+    {
+        string recordKey = "weatherForecast_" + DateTime.Now.ToString("yyyymmdd_hhmm");
+        forecasts = await cach.GetRecordAsync<WeatherForecast[]>(recordKey);
+        if (forecasts == null)
+        {
+            forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
+            await cach.SetRecordAsync(recordKey, forecasts);
+        }
+    }
+    
+}
