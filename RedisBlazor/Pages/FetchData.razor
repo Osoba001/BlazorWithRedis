@@ -1,10 +1,11 @@
 ﻿@page "/fetchdata"
-@using static RedisBlazor.Extensions.DistributedCacheExtension
+@using RedisBlazor.ContractServices
+@using RedisBlazor.Data
 <PageTitle>Weather forecast</PageTitle>
 
-@using RedisBlazor.Data
+
 @inject WeatherForecastService ForecastService
-@inject IDistributedCache cach
+@inject IRedisService redis
 
 <h1>Weather forecast</h1>
 
@@ -45,11 +46,11 @@ else
     {
         forecasts = null;
         string recordKey = "weatherForecast_" + DateTime.Now.ToString("yyyymmdd_hhmm");
-        forecasts = await cach.GetRecordAsync<WeatherForecast[]>(recordKey);
+        forecasts = await redis.GetRecordAsync<WeatherForecast[]>(recordKey);
         if (forecasts == null)
         {
             forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
-            await cach.SetRecordAsync(recordKey, forecasts);
+            await redis.SetRecordAsync(recordKey, forecasts);
         }
     }
     

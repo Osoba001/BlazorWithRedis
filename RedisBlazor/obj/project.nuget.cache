@@ -1,9 +1,26 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "Gmc23SpSnKJN4f24XXYYsg/KJueFH5u3pHGTdLDK3RxWZAOO/AQkc02yufFAsBy8b5HvqXrCC7nnM9PIi7DaBg==",
+=======
   "dgSpecHash": "pEXQTkWr06mzhbXzJ8TRcFuPUtICP6ed2Qj3uQx/ag00hnVbihkh6bawEg/T+uKAR6bqocrEyDtBt69OkMBbKA==",
+>>>>>>> f658e97804c5a5a04d2aa14b35bfedd8f2127322
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\RedisBlazor.csproj",
   "expectedPackageFiles": [
+<<<<<<< HEAD
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\7.0.2\\microsoft.extensions.caching.stackexchangeredis.7.0.2.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\stackexchange.redis\\2.6.90\\stackexchange.redis.2.6.90.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+=======
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\7.0.2\\microsoft.extensions.caching.stackexchangeredis.7.0.2.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
@@ -14,6 +31,7 @@
     "C:\\Users\\DELL\\.nuget\\packages\\stackexchange.redis\\2.6.90\\stackexchange.redis.2.6.90.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+>>>>>>> f658e97804c5a5a04d2aa14b35bfedd8f2127322
   ],
   "logs": []
 }

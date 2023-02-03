@@ -34,6 +34,9 @@ C:\Users\kelly.osoba\source\repos\RedisBlazor\RedisBlazor\obj\Debug\net6.0\Redis
 C:\Users\kelly.osoba\source\repos\RedisBlazor\RedisBlazor\obj\Debug\net6.0\ref\RedisBlazor.dll
 C:\Users\kelly.osoba\source\repos\RedisBlazor\RedisBlazor\obj\Debug\net6.0\RedisBlazor.pdb
 C:\Users\kelly.osoba\source\repos\RedisBlazor\RedisBlazor\obj\Debug\net6.0\RedisBlazor.genruntimeconfig.cache
+<<<<<<< HEAD
+C:\Users\kelly.osoba\source\repos\RedisBlazor\RedisBlazor\bin\Debug\net6.0\Newtonsoft.Json.dll
+=======
 C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\appsettings.json
 C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\RedisBlazor.staticwebassets.runtime.json
@@ -75,3 +78,4 @@ C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug
 C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.pdb
 C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.genruntimeconfig.cache
 C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\ref\RedisBlazor.dll
+>>>>>>> f658e97804c5a5a04d2aa14b35bfedd8f2127322
