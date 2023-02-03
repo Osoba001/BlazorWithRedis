@@ -43,6 +43,7 @@ else
     private WeatherForecast[]? forecasts;
     private async Task LoadDataAsync()
     {
+        forecasts = null;
         string recordKey = "weatherForecast_" + DateTime.Now.ToString("yyyymmdd_hhmm");
         forecasts = await cach.GetRecordAsync<WeatherForecast[]>(recordKey);
         if (forecasts == null)

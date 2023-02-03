@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VQV5wRPp5wGCsPQYCR/20fzwOLSaBCssJcOERzhS334=",
+  "Hash": "xy4ge3yRCd29rumHOqXf5wqpAQjXRpFIE3sOzmf1QPo=",
   "Source": "RedisBlazor",
   "BasePath": "_content/RedisBlazor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "RedisBlazor\\wwwroot",
       "Source": "RedisBlazor",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RedisBlazor.styles.css",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RedisBlazor.styles.css",
       "SourceId": "RedisBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "RedisBlazor.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RedisBlazor.styles.css"
+      "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RedisBlazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RedisBlazor.bundle.scp.css",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RedisBlazor.bundle.scp.css",
       "SourceId": "RedisBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "RedisBlazor.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RedisBlazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RedisBlazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\css\\site.css",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\favicon.ico",
       "SourceId": "RedisBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kelly.osoba\\source\\repos\\RedisBlazor\\RedisBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\Apps\\Redis on Blazor\\BlazorWithRedis\\RedisBlazor\\wwwroot\\",
       "BasePath": "_content/RedisBlazor",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

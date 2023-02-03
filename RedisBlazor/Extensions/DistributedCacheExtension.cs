@@ -20,24 +20,8 @@ namespace RedisBlazor.Extensions
 
         public static async Task<T?> GetRecordAsync<T>(this IDistributedCache cache, string recordId)
         {
-
-            try
-            {
-                var jsonData = await cache.GetStringAsync(recordId);
-                return JsonSerializer.Deserialize<T>(jsonData);
-            }
-            catch(Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-                return default(T);
-            }
-           
-
-           
-
-            
-            //var data=await cache.GetStringAsync(recordId);
-            //return data != null ? JsonSerializer.Deserialize<T>(data) : default;
+            var data = await cache.GetStringAsync(recordId);
+            return data != null ? JsonSerializer.Deserialize<T>(data) : default;
         }
     }
 }

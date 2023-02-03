@@ -34,3 +34,44 @@ C:\Users\kelly.osoba\source\repos\RedisBlazor\RedisBlazor\obj\Debug\net6.0\Redis
 C:\Users\kelly.osoba\source\repos\RedisBlazor\RedisBlazor\obj\Debug\net6.0\ref\RedisBlazor.dll
 C:\Users\kelly.osoba\source\repos\RedisBlazor\RedisBlazor\obj\Debug\net6.0\RedisBlazor.pdb
 C:\Users\kelly.osoba\source\repos\RedisBlazor\RedisBlazor\obj\Debug\net6.0\RedisBlazor.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\RedisBlazor.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\RedisBlazor.exe
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\RedisBlazor.deps.json
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\RedisBlazor.runtimeconfig.json
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\RedisBlazor.dll
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\RedisBlazor.pdb
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\staticwebassets\msbuild.RedisBlazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\staticwebassets\msbuild.build.RedisBlazor.props
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RedisBlazor.props
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RedisBlazor.props
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\scopedcss\bundle\RedisBlazor.styles.css
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\scopedcss\projectbundle\RedisBlazor.bundle.scp.css
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.csproj.CopyComplete
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.dll
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\refint\RedisBlazor.dll
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.pdb
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\RedisBlazor.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Apps\Redis on Blazor\BlazorWithRedis\RedisBlazor\obj\Debug\net6.0\ref\RedisBlazor.dll
