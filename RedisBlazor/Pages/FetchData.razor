@@ -51,6 +51,7 @@ else
         {
             forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
             await redis.SetRecordAsync(recordKey, forecasts);
+          var res=  await  redis.PublishAsyc(forecasts,"channel1");
         }
     }
     
