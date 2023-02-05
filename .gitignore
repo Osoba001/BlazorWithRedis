@@ -1,4 +1,4 @@
 ﻿bin
 obj
 appsettings.json
-properties/launchSettings.json
+launchSettings.json
